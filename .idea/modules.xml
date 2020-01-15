@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/performance.iml" filepath="$PROJECT_DIR$/performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/performance-base/performance-base.iml" filepath="$PROJECT_DIR$/performance-base/performance-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/performance-dao/performance-dao.iml" filepath="$PROJECT_DIR$/performance-dao/performance-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/performance-service/performance-service.iml" filepath="$PROJECT_DIR$/performance-service/performance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/performance-web/performance-web.iml" filepath="$PROJECT_DIR$/performance-web/performance-web.iml" />
+    </modules>
+  </component>
+</project>
